@@ -1,0 +1,51 @@
+body {
+    background-color: #777;
+    width: 960px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+header,
+nav,
+section,
+aside,
+footer {
+    background: #ebebeb;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    
+}
+
+article,
+#article {
+    background-color: #777;
+    padding: 10px;
+    color: #ebebeb;
+}
+
+p,
+h1 {
+    background: #ebebeb;
+    color: #777;
+    padding: 10px;
+    margin: 10px;
+}
+
+section {
+    float: left;
+    width: 495px;
+    height: 267px;
+    
+}
+
+aside {
+    width: 40%;
+    float: right;
+    height: 267px;
+}
+
+footer {
+    clear: both;
+}
